@@ -1,0 +1,13 @@
+name: project-assignment-3-RaySaysHi
+title: project-assignment-3-RaySaysHi
+username: raysayshi
+account: raysayshi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10895403
+bundleId: 8127182
+url: https://raysayshi.shinyapps.io/project-assignment-3-RaySaysHi/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: project-assignment-3.qmd|README.md
